@@ -1,5 +1,8 @@
 # AI Analyst — Hackathon Prototype (mocked)
-
+### Submission Links
+- **MVP Live Demo**: https://ai-analyst-prototype-b4kf.vercel.app/
+- **Demo Video**: https://youtu.be/DVsZ9bwumOY 
+- **GitHub Repo**: https://github.com/irfan0908/ai-analyst-prototype/tree/main
 This repo contains a simple prototype: React frontend + FastAPI mock backend.
 It demonstrates the user flow: upload a pitch deck → analyze (mock) → receive a concise investment memo.
 
